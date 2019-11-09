@@ -1,3 +1,3 @@
 # ToeplitzHash
 
-A implenentation of the Toeplitz Hashing Algorithm
+An implenentation of the Toeplitz Hashing Algorithm
